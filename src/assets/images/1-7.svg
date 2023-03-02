@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="123px" height="218px" viewBox="0 0 123 218" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>网页尺寸</title>
+    <defs>
+        <polygon id="path-1" points="-0.0003 0.247142857 1.28541429 0.247142857 1.28541429 142.394043 -0.0003 142.394043"></polygon>
+    </defs>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="网页尺寸" transform="translate(-1768.000000, -582.000000)">
+            <rect fill="#FFFFFF" opacity="0" x="0" y="0" width="1920" height="1080"></rect>
+            <g id="编组备份-9" transform="translate(1768.000000, 583.452206)">
+                <polygon id="Fill-1" fill="#05AAFC" points="0 117.171929 60.4247143 150.851214 122.335714 117.171929 60.4247143 84.5983571"></polygon>
+                <polygon id="Fill-2" fill="#00E1FF" points="60.4248429 0.285457143 60.4248429 142.432743 122.335843 106.770886"></polygon>
+                <polygon id="Fill-3" fill="#0187FF" points="60.4248429 0.285457143 0.000128571429 107.762171 60.4248429 142.432743"></polygon>
+                <polygon id="Fill-4" fill="#00E1FF" points="60.4248429 213.752857 60.4248429 150.851857 0.000128571429 117.172571"></polygon>
+                <polygon id="Fill-5" fill="#0187FF" points="60.4248429 150.851729 60.4248429 213.752729 122.335843 117.172443"></polygon>
+                <g id="编组" transform="translate(0.000000, 0.038571)">
+                    <path d="M60.4248429,213.714286 L60.4248429,150.813286 C60.4248429,150.813286 62.5012714,168.086857 60.4248429,213.714286" id="Fill-6" fill="#0D27FE"></path>
+                    <path d="M122.335071,117.133743 L60.4253571,150.813029 C60.4253571,150.813029 85.3296429,140.315171 122.335071,117.133743" id="Fill-8" fill="#0D27FE"></path>
+                    <path d="M0.000128571429,117.133743 L60.4248429,150.813029 C60.4248429,150.813029 30.5859857,136.143029 0.000128571429,117.133743" id="Fill-10" fill="#0D27FE"></path>
+                    <g transform="translate(60.142857, 0.000000)">
+                        <mask id="mask-2" fill="white">
+                            <use xlink:href="#path-1"></use>
+                        </mask>
+                        <g id="Clip-13"></g>
+                        <path d="M0.281985714,0.246757143 L0.281985714,142.394043 C0.281985714,142.394043 1.90455714,35.8674714 0.281985714,0.246757143" id="Fill-12" fill="#0D27FE" mask="url(#mask-2)"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
